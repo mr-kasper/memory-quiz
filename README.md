@@ -16,6 +16,10 @@ Memory Quiz is a web application that allows users to test their memory by compa
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
+## Live Demo
+
+Check out the live demo [here](https://memory-quiz-neon.vercel.app/).
+
 ## Getting Started
 
 ### Prerequisites
